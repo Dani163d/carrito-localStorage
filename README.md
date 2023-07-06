@@ -1,3 +1,3 @@
 # carrito-localStorage:
 
-proyecto localstorage
+proyecto localstorage.
