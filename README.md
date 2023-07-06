@@ -1,1 +1,3 @@
-# carrito-localStorage
+# carrito-localStorage:
+
+proyecto localstorage
